@@ -9,3 +9,6 @@ npm install
 ```shell
 ng serve
 ```
+
+[Deploy on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-sdkuyl)
+
